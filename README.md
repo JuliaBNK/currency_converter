@@ -1,5 +1,5 @@
 # currency_converter
-This project is a graphical currency converter application written in Java using MVC architecture (Model-View-Controller) and SceneBuilder. This application has two main features:
+This project is a graphical currency converter application written in Java using MVC architecture (Model-View-Controller) and Scene Builder. This application has two main features:
 1) it takes a number of a certain amount of money in one currency and convert it into corresponding amount into another currency using current exchange rate retrieved from Fixer.io. 
 2) it takes a date and display what exchange rate was effective that day for two selected currencies. 
 
