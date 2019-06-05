@@ -1,11 +1,7 @@
 /*
  * Name:     Iuliia Buniak
  *
- * Course:   CS-13, Spring 2019
- *
- * Date:     05/14/19
- *
- * Filename: ConvModel.java
+ * Filename: ConvModelTest.java
  *
  * Purpose:  To provide JUnit tests for currency converter application
  */
