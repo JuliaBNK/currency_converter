@@ -6,14 +6,14 @@ This project is a graphical currency converter application. This application has
 Files
 
 The following files are used to create this application:
-ConvView.fxml – View for project
-ConvController.java – Controller for project
-ConvModel.java – Model for project
-ConvMain.java – Contains public static void main to start the application
-ConvModelTest.java – Junit tests for ConvModel.java
-Gson-2.2.4.jar – Required to parse JSON code returned 
-Hamcrest-core-1.3.jar – Required to run JUnit tests
-junit-4.12.jar – Required to run JUnit tests
+1)ConvView.fxml – View for project
+2)ConvController.java – Controller for project
+3)ConvModel.java – Model for project
+4)ConvMain.java – Contains public static void main to start the application
+5)ConvModelTest.java – Junit tests for ConvModel.java
+6)Gson-2.2.4.jar – Required to parse JSON code returned 
+7)Hamcrest-core-1.3.jar – Required to run JUnit tests
+8)junit-4.12.jar – Required to run JUnit tests
 
 Operation
 
