@@ -1,10 +1,6 @@
 /*
  * Name:     Iuliia Buniak
  *
- * Course:   CS-13, Spring 2019
- *
- * Date:     05/14/19
- *
  * Filename: ConvModel.java
  *
  * Purpose:  To handle all data access and manipulation in MVC model 
